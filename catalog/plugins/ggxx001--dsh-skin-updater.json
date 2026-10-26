@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "ggxx001/dsh-skin-updater",
+  "name": "dsh-skin-updater",
+  "repository": "https://github.com/ggxx001/dsh-skin-updater",
+  "category": "theme",
+  "description": {
+    "en": "皮肤管理页内的手动/自动皮肤更新，下载走国内 npm 镜像",
+    "zh": "皮肤管理页内的手动/自动皮肤更新，下载走国内 npm 镜像"
+  },
+  "added": "2026-10-26"
+}
