@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "ggxx001/dsh-task-progress",
+  "name": "dsh-task-progress",
+  "repository": "https://github.com/ggxx001/dsh-task-progress",
+  "category": "ui",
+  "description": {
+    "en": "Session task and runtime dashboard for DeepSeek Harness",
+    "zh": "Session task and runtime dashboard for DeepSeek Harness"
+  },
+  "added": "2026-10-26"
+}
