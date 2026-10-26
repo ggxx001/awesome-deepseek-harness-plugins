@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "ggxx001/dsh-plugin-studio",
+  "name": "dsh-plugin-studio",
+  "repository": "https://github.com/ggxx001/dsh-plugin-studio",
+  "category": "dev",
+  "description": {
+    "en": "插件会话工坊：为已安装插件开一个带上下文的修改会话，点开插件即可在对话里继续改它。",
+    "zh": "插件会话工坊：为已安装插件开一个带上下文的修改会话，点开插件即可在对话里继续改它。"
+  },
+  "added": "2026-10-26"
+}
