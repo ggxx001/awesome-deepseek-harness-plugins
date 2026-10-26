@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "ggxx001/dsh-plugin-purge",
+  "name": "dsh-plugin-purge",
+  "repository": "https://github.com/ggxx001/dsh-plugin-purge",
+  "category": "dev",
+  "description": {
+    "en": "Force-uninstalls plugins from the DSH plugin library: removes third-party dependencies, switches off and hides installation-carried plugins, and can restore hidden entries.",
+    "zh": "彻底卸载插件库里的插件：删除第三方依赖，停用并移出安装包内置插件，支持恢复显示。"
+  },
+  "added": "2026-10-27"
+}
