@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "ggxx001/dsh-workspace-pin",
+  "name": "dsh-workspace-pin",
+  "repository": "https://github.com/ggxx001/dsh-workspace-pin",
+  "category": "dev",
+  "description": {
+    "en": "给侧栏工作区加置顶：工作区行多一个图钉按钮，置顶的排在「工作区」最前。",
+    "zh": "给侧栏工作区加置顶：工作区行多一个图钉按钮，置顶的排在「工作区」最前。"
+  },
+  "added": "2026-10-29"
+}
